@@ -3,6 +3,7 @@
 # 🩺 MediBot - AI Health Assistant Using Groq & Gradio
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/madhavdasm/MediBot/blob/main/MediBot_Groq.ipynb)
+[![Hugging Face](https://img.shields.io/badge/Live%20Demo-HuggingFace-blue?logo=huggingface)](https://huggingface.co/spaces/madhavdasm/MediBot)
 
 MediBot is a simple yet powerful AI health assistant powered by **Groq** for backend intelligence and **Gradio** for an interactive frontend interface. It demonstrates how to build conversational AI tools for healthcare-related queries using state-of-the-art AI APIs.
 
@@ -33,7 +34,8 @@ pip install gradio
 1. Open the notebook in [Google Colab](https://colab.research.google.com/github/madhavdasm/MediBot/blob/main/MediBot_Groq.ipynb).
 2. Install the necessary dependencies (already present in the notebook).
 3. Run the cells to launch the Gradio interface.
-4. Start chatting with MediBot!
+4. Alternatively, try the live demo on Hugging Face.
+5. Start chatting with MediBot!
 
 ---
 
@@ -43,6 +45,8 @@ pip install gradio
 * [**Groq API**](https://groq.com/) - AI model for NLP tasks.
 * [**Gradio**](https://www.gradio.app/) - Web UI for machine learning models.
 * **Google Colab** - Free GPU support and easy execution.
+* **Hugging Face Spaces** - Hosting the live demo.
+
 
 ---
 
@@ -69,6 +73,7 @@ MediBot/
 
 * [Groq](https://groq.com/) for their blazing-fast inference engine.
 * [Gradio](https://www.gradio.app/) for the UI framework.
+* Hugging Face Spaces for live hosting.
 * Google Colab for providing a free GPU-based development environment.
 
 ---
